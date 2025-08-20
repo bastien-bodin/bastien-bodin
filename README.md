@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-I'm Bastien - I'm a PhD Candidate finishing a thesis on **computational physics** applied to **planetology**. I'm interested in developing new codes to continue "playing" with physics ⚛️ on a computer 💻. I like to couple physics stuff together and see their interactions occuring in "live". Currently, I am finishing my model *CryoPy*, designed for modeling cryolava flows🧊 on Europa and Titan, two icy moons of the Solar System 🪐.
+I'm Bastien - I'm a PhD Candidate finishing a thesis on **computational physics** applied to **planetology**. I'm interested in developing new codes to continue "playing" with physics ⚛️ on a computer 💻. I like to couple physics stuff together and see their interactions taking place in "real time". Currently, I am finishing the README of my model *CryoPy*, designed for modeling cryolava flows🧊 on Europa and Titan, two icy moons of the Solar System 🪐.
 
-## My skills
+## My programming skills
 ### Programming languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,fortran,c,cpp)](https://skillicons.dev)
-### CAD
-[![CAD](https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg)](https://upload.wikimedia.org/)
 ### Environments
 [![Environments](https://skillicons.dev/icons?i=bash,powershell,vscode,vim)](https://skillicons.dev)
 ### Operating Systems
