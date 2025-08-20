@@ -4,7 +4,14 @@ I'm Bastien - I'm a PhD Candidate finishing a thesis on **computational physics*
 
 ## My skills
 [![Programming Languages](https://skillicons.dev/icons?i=py,fortran,c,cpp)](https://skillicons.dev)
+
 [![Environments](https://skillicons.dev/icons?i=bash,powershell,vscode,vim)](https://skillicons.dev)
+
+## Connect with me 📨
+<p align="left">
+  <a href="https://linkedin.com/in/bastien-bodin" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:bastien.bodin@proton.me"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+</p>
 
 <!--
 **bastien-bodin/bastien-bodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
