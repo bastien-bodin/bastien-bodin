@@ -19,7 +19,7 @@ My work focuses on modeling the rheology and dynamics of icy moons in our Solar 
 Beyond my thesis, I enjoy "playing" with physics in various domains:
 
 * **CFD & OpenFOAM:** Modeling complex interactions and traditional fluid dynamics.
-* **Computational Finance:** Applying numerical methods to stochastic modeling and market analysis.
+* **Computational Finance:** Exploring numerical methods to stochastic modeling and market analysis.
 * **Real-time Coupling:** Exploring how different physical solvers can interact dynamically.
 
 ---
